@@ -19,6 +19,7 @@ The best way to report an issue with a plugin is to find the plugin on https://g
 
 ###Available Plugins
 
+
 To see a list of available plugins, visit https://getbitbar.com/
 
 ##Contributors
